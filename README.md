@@ -1,4 +1,4 @@
-[![warp-plus](https://github-readme-stats.vercel.app/api/pin/?username=nxvvvv&repo=warp-plus&theme=dark)](https://github.com/nxvvvv/warp-plus)<br/>
+[![warp-plus](https://github-readme-stats.vercel.app/api/pin/?username=hello2himel&repo=warp-plus-unlocker&theme=dark)](https://github.com/nxvvvv/warp-plus)<br/>
 
 [![Run on Repl.it](https://replit.com/@hello2himel/warp-plus-unlocker?v=1)](https://replit.com/@hello2himel/warp-plus-unlocker?v=1)
 
