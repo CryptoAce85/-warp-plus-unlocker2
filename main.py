@@ -6,8 +6,8 @@ import string
 import time
 import os
 import sys
-script_version = '4.1.0'
-window_title   = f"WARP-PLUS-CLOUDFLARE By Navaneeth K M (version {script_version})"
+script_version = '23.1.0'
+window_title   = f"WARP-PLUS-CLOUDFLARE By hello2himel (version {script_version})"
 os.system(
 	f'title {window_title}'
 	if os.name == 'nt'
