@@ -1,7 +1,7 @@
 [![warp-plus](https://github-readme-stats.vercel.app/api/pin/?username=hello2himel&repo=warp-plus-unlocker&theme=dark)](https://github.com/hello2himel/warp-plus-unlocker)<br/>
 
-  1.1.1.1 + WARP: Safer Internet
-         android verision link: 
+   - 1.1.1.1 + WARP: Safer Internet
+   - android verision link: 
   https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&hl=en&gl=US
 
 # How to use this program
