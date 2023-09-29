@@ -1,7 +1,7 @@
 [![warp-plus](https://github-readme-stats.vercel.app/api/pin/?username=hello2himel&repo=warp-plus-unlocker&theme=dark)](https://github.com/hello2himel/warp-plus-unlocker)<br/>
 
   1.1.1.1 + WARP: Safer Internet
-  android verision link: 
+         android verision link: 
   https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&hl=en&gl=US
 
 # How to use this program
@@ -15,4 +15,4 @@
   - Now you will get one gig extra in the same way as you have shared the app at repeat as long as you have the program running.
   - Enjoy the free WARP+ GBs!!
 
- # This works well on computer verision aswell.
+ # This works on computer verision aswell.
