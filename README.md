@@ -7,7 +7,8 @@ https://replit.com/@hello2himel/warp-plus-unlocker
   - Now click the sandwich button on the right top of the screen.
   - Then click Advanced.
   - Now click Diagnostics and long press the User ID and copy it.
-  - Now press the link above on this site that opens the program and press run.
+  - Now press this link: https://bit.ly/warp-plus-unlocker
+  - That opens the unlocker program and then press the green button "Run" in the top right corner.
   - Run the program and paste the ID when asked and press enter.
   - Now you will get one gig extra in the same way as you have shared the app at repeat as long as you have the program running.
   - Enjoy the free WARP+ GBs!!
